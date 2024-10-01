@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/Climate=UTF-8
+encoding//src/Climate/ClimateApp.java=UTF-8
+encoding//src/Climate/ClimateMeasurement.java=UTF-8
+encoding//src/Climate/ClimateRecord.java=UTF-8
+encoding//src/Climate/Humidity.java=UTF-8
+encoding//src/Climate/RadiationAbsorbtion.java=UTF-8
+encoding//src/Climate/Temperature.java=UTF-8
+encoding//src/Climate/WindSpeed.java=UTF-8
+encoding//src/fileIO=UTF-8
+encoding//src/fileIO/FileIO.java=UTF-8
+encoding//src/locations/City.java=UTF-8
+encoding//src/locations/Country.java=UTF-8
+encoding/<project>=UTF-8
+encoding/countries_and_cities.csv=UTF-8
+encoding/src=UTF-8
